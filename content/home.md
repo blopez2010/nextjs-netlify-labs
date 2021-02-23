@@ -8,7 +8,7 @@ cats:
   - description: Lil Bub is an American celebrity cat known for her unique appearance.
     name: Lil Bub
     url: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nytimes.com%2F2019%2F12%2F03%2Fbusiness%2Fmedia%2Flil-bub-dead.html&psig=AOvVaw3-76kCq_1S-DrxM_S12u98&ust=1614130250216000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiH_vPt_u4CFQAAAAAdAAAAABAD
-  - description: 'Grumpy cat is an American celebrity cat known for her grumpy appearance.'
+  - description: Grumpy cat is an American celebrity cat known for her grumpy appearance.
     name: Grumpy cat (Tardar Sauce)
     url: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wired.com%2Fstory%2Fgrumpy-cat-obit%2F&psig=AOvVaw2bXPMr8pAXdIoD-aGWddhl&ust=1614130266815000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDCnvzt_u4CFQAAAAAdAAAAABAD
 dogs:
