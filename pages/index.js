@@ -4,7 +4,7 @@ import { attributes, react as HomeContent } from '../content/home.md';
 
 export default class Home extends Component {
   render() {
-    let { title, cats } = attributes;
+    let { title, cats, dogs } = attributes;
     return (
       <>
         <Head>
@@ -15,6 +15,14 @@ export default class Home extends Component {
           <HomeContent />
           <ul>
             {cats.map((cat, k) => (
+              <li key={k}>
+                <h2>{cat.name}</h2>
+                <p>{cat.description}</p>
+              </li>
+            ))}
+          </ul>
+          <ul>
+            {dogs.map((cat, k) => (
               <li key={k}>
                 <h2>{cat.name}</h2>
                 <p>{cat.description}</p>
